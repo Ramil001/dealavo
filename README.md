@@ -17,7 +17,7 @@ A plugin to update prices from Dealavo.com, via API or CSV interfaces.
 ## A Few Simple Steps to Get Started
 
 1. **Download the Plugin**
-    - Download the plugin from [GitHub](https://github.com/Ramil001/dealavo).
+    - Download the plugin from [GitHub](https://github.com/Ramil001/dealavo/archive/refs/heads/main.zip).
 
 2. **Install the Plugin in the `my.site.com/wp-content/plugins` Folder**
     - Replace `my.site.com` with the address of your site.
