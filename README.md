@@ -2,6 +2,10 @@
 
 A plugin to update prices from Dealavo.com, via API or CSV interfaces.
 
+## Author
+[Ramil B.](https://t.me/ramil_x)
+- If you need support or would like to propose a collaboration, I would be happy to consider your proposal.
+
 ## Prerequisites
 
 - WordPress installation
