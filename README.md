@@ -1,5 +1,7 @@
 # WordPress-Dealavo Plugin
 
+Dealavo The Leading Competitor Price Tracking Software, Dynamic Pricing and E-commerce Analysis Tool. Increase your profits, improve ROAS from product ads and stay ...
+
 A plugin to update prices from Dealavo.com, via API or CSV interfaces.
 
 ## Author
